@@ -9,6 +9,11 @@
   "rules": {
     "semi": "off",
     "arrow-parens": "off",
-    "require-jsdoc": "off"
+    "require-jsdoc": "off",
+    "linebreak-style": 0,
+    "indent": "off",
+    "no-trailing-spaces": "off",
+    "padded-blocks": "off",
+    "eol-last": "off"
   }
 }
